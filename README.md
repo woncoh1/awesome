@@ -17,3 +17,7 @@
 - [The Composable Codex](https://the-composable-codex.netlify.app/)
 - [Apache DataFusion Ballista](https://datafusion.apache.org/ballista/)
 - [DuckLake](https://ducklake.select/)
+- [Jupyter Book](https://jupyterbook.org/en/stable/intro.html)
+- [Quarto](https://quarto.org/)
+- [draw.io](https://app.diagrams.net/)
+- [BioRender](https://biorender.com/)
