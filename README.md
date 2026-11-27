@@ -14,7 +14,7 @@
 - [Bevy](https://bevy.org/)
 - [Burn](https://burn.dev/)
 - [Apache Iggy](https://iggy.apache.org/)
-- [The Composable Codex](https://the-composable-codex.netlify.app/)
+- [Apache DataFusion](https://datafusion.apache.org/index.html)
 - [Apache DataFusion Ballista](https://datafusion.apache.org/ballista/)
 - [DuckLake](https://ducklake.select/)
 - [Jupyter Book](https://jupyterbook.org/en/stable/intro.html)
